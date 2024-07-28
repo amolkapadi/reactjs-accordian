@@ -42,3 +42,8 @@
   border-radius: 50px;
   padding: 10px;
 }
+@media only screen and (max-width: 600px) {
+  .accordion  {
+    width: 90%;
+  }
+}
